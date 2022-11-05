@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajashekhar</h1>
 <h3 align="center">A passionate Java developer</h3>
 
-![I am GitHub Readme Generator's creator](https://github.com/rajashekharms369/rajashekharms369.github.io/blob/main/assets/css/js/img/programmer-1.jpg)
+![I am GitHub Readme Generator's creator](https://github.com/rajashekharms369/rajashekharms369.github.io/blob/main/assets/css/js/img/animation.gif)
 
 - 🔭 I’m currently working on **Java Backend frameworks**
 
@@ -38,3 +38,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=rajashekharms369&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
 
 
+![I am GitHub Readme Generator's creator](https://github.com/rajashekharms369/rajashekharms369.github.io/blob/main/assets/css/js/img/programmer-1.jpg)
