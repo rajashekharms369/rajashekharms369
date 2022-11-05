@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi 👋, I'm Rajashekhar Sambalad.
 
-Here are some ideas to get you started:
+A passionate Java Backend Developer.
 
 - 🌱 I’m currently learning Java Backend Development.
 
@@ -12,4 +12,14 @@ Here are some ideas to get you started:
 
 - Know more about me with my [Resume](https://drive.google.com/file/d/1hRPGpMmUfHvnX2DLCpIEChxMVa03P6PP/view?usp=share_link).
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+Connect with me:
+![This is an image]()
+![This is an image]()
+![This is an image]()
+
+Languages and Tools:
+
+Github Stats:
+
+Most Languages used:
