@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajashekhar</h1>
-<h3 align="center">A passionate Java developer</h3>
+<h3 align="center">Hi, I'm an enthusiastic result-driven Java deveoper professional accustomed to overseeing all aspects of the Backend application and systems.</h3>
 
 ![I am GitHub Readme Generator's creator](https://github.com/rajashekharms369/rajashekharms369.github.io/blob/main/assets/css/js/img/animation.gif)
 
